@@ -9,3 +9,6 @@ Shell Scripting
 6. knfsdknfask
 7. new tasks
 8. my comments
+9. loops
+10. codes
+11. payment
